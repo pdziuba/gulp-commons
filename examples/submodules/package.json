@@ -1,0 +1,13 @@
+{
+  "name": "parent",
+  "version": "1.0.0",
+  "author": "przemekd",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "gulp": "3.9.1"
+  },
+  "scripts": {
+    "postinstall": "cd moduleA && npm run linkGulpCommons && npm install && cd ../moduleB && npm run linkGulpCommons && npm install",
+    "gulp": "gulp"
+  }
+}

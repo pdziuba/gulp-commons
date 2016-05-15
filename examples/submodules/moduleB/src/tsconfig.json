@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "system",
+        "target": "es5",
+        "outDir": "../built/",
+        "moduleResolution": "node",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "removeComments": false,
+        "noImplicitAny": false,
+        "inlineSourceMap": true,
+        "inlineSources": true,
+        "declaration": true,
+        "noEmitOnError" : true
+    }
+}

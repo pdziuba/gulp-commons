@@ -1,0 +1,5 @@
+Running the example:
+
+npm link ../../gulp-commons
+npm install
+npm run gulp

@@ -1,0 +1,17 @@
+{
+  "name": "gulp-commons",
+  "version": "0.0.1",
+  "description": "A collection of common gulp tasks",
+  "main": "index.js",
+  "devDependencies": {
+    "gulp-if": "^2.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-rimraf": "^0.2.0",
+    "gulp-tsd": "0.0.4",
+    "gulp-tslint": "^3.5.0",
+    "gulp-typescript": "2.9.2",
+    "q": "^1.4.1"
+  },
+  "author": "przemekd",
+  "license": "GPL-3.0"
+}

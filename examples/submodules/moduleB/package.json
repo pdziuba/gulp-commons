@@ -1,0 +1,14 @@
+{
+  "name": "moduleB",
+  "version": "1.0.0",
+  "author": "przemekd",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-commons": "0.0.1"
+  },
+  "scripts": {
+    "linkGulpCommons": "npm link ../../../gulp-commons",
+    "gulp": "gulp"
+  }
+}
