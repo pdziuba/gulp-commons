@@ -1,0 +1,2 @@
+gulp-commons is a proof of concept of reusing tasks definitions and emulating a concept of submodules in gulp.
+For usage see the content of examples directory.
